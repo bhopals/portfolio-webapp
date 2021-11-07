@@ -23,12 +23,12 @@ const Footer = () => {
       </div>
       <div className={style.cardS}>
         <div className={style.cardItem}>
-          45 ADAM STREET,
-          <br /> USA
+          200 Kings Street,
+          <br /> CANADA
         </div>
         <div className={style.cardItem}>
-          CONTACT@LAMA.DEV
-          <br /> 111_438_5244
+          consta@profolio-webapp.com
+          <br /> +1 458-365-1236
         </div>
       </div>
       <div className={style.cardS}>
@@ -37,7 +37,7 @@ const Footer = () => {
           <br /> __FB __IN __BE __TW
         </div>
         <div className={style.cardItem}>
-          © 2022 LAMA INTERACTIVE,
+          © 2022 PORTFOLIO INTERACTIVE,
           <br />
           ALL RIGHTS RESERVED
         </div>
